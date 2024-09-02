@@ -1,1 +1,1 @@
-"Segunda prueba de a¤adir contenido a README.md" 
+"Borro una rama que cre‚ sin querer" 
